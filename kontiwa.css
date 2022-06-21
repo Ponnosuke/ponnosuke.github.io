@@ -21,6 +21,10 @@ h1 {
 
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .risuto{
     margin-top: 60px;
 }
