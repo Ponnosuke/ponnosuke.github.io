@@ -2,7 +2,10 @@ body{
     /*
     background-color:aqua; 
     */
-    background-color:#62c7c9
+    background-color:#62c7c9;
+
+    background-image: url(assets/image/VRC1.png);
+    background-attachment: fixed;
 }
 
 body header h1 {
