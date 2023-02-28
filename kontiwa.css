@@ -24,24 +24,24 @@ body{
 }
 
 nav{
-    display: flex;
-    flex: 100%;
+    /* display: flex;
+    flex: 100%; */
     margin-left: auto;
 }
 
 nav ul {
     list-style-type: none;
-    flex: 2;
+    /* flex: 2;
     padding-left: 0;
     padding-bottom: 20px;
     display: flex;
-    border-bottom: 1px solid rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(255, 255, 255); */
 }
 nav ul li {
     font-size: 30px;
+    /* text-align: center;
     display: inline;
-    text-align: center;
-    flex: auto;
+    flex: auto; */
     font-weight: 900;
     font-family: 'Zen Maru Gothic', sans-serif;
 }
