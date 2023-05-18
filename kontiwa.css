@@ -47,9 +47,20 @@ nav ul li {
     font-family: 'Zen Maru Gothic', sans-serif;
 }
 
+/*
+a {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+*/
+
+a:visited {
+    color: #314bc0;
+}
+
 a:hover {
     text-decoration: none;
 }
+
 
 .risuto{
     margin-top: 60px;
